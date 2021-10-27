@@ -1,0 +1,1315 @@
+body{
+    overflow-x: hidden;
+    margin:0%;
+    font-family: 'Comfortaa', cursive;
+}
+h4{
+    margin-bottom: 8px;
+}
+h6{
+    margin-top: 8px;
+    margin-bottom: 19px;
+}
+.Vector3{
+    position: absolute;
+    width: 100%;
+    height: 20%;
+    top: 0%;
+}
+.Vector3{
+    z-index: -1;
+}
+.Vector3 img{
+    width: 100%;
+    height: 40rem;
+}
+.Vector2{
+    position: absolute;
+    width: 100%;
+    height: 20%;
+    top: 0%;
+}
+.Vector2{
+    z-index: 1;
+}
+.Vector2 img{
+    width: 100%;
+    height: 40rem;
+}
+.Rectangle9{
+    position: absolute;
+    left: 8%;
+    top: 32%;
+}
+.Rectangle9{
+    z-index: 3;
+}
+.Rectangle1{
+    position: absolute;
+    left: 7%;
+    top: 31%;
+
+    transform: rotate(3.03deg);
+}
+.Rectangle1{
+    z-index: 2;
+}
+.Rectangle1 img{
+    border-radius: 4rem;
+}
+.Rectangle10{
+    position: absolute;
+    left: 26%;
+    top: 22%;
+}
+.Rectangle10{
+    z-index: 2;
+}
+.Rectangle10 img{
+    border-radius: 2rem;
+}
+.Rectangle2{
+    position: absolute;
+    left: 25%;
+    top: 21%;
+
+    border-radius: 3%;
+    transform: rotate(-3.06deg);
+}
+.Rectangle2{
+    z-index: 1;
+}
+.Rectangle2 img{
+    border-radius: 4rem;
+}
+.Rectangle17{
+    position: absolute;
+    left: 44%;
+    top: 12%;
+}
+.Rectangle17{
+    z-index: 2;
+}
+.Rectangle17 img{
+    border-radius: 2rem;
+}
+
+.Rectangle18{
+    position: absolute;
+    left: 43%;
+    top: 11%;
+
+    border-radius: 3%;
+    transform: rotate(-3.06deg);
+}
+.Rectangle18{
+    z-index: 1;
+}
+.Rectangle18 img{
+    border-radius: 4rem;
+}
+.Rectangle11{
+    position: absolute;
+    left: 62%;
+    top: 22%;
+}
+.Rectangle11{
+    z-index: 2;
+}
+.Rectangle11 img{
+    border-radius: 2rem;
+}
+.Rectangle3{
+    position: absolute;
+    left: 60%;
+    top: 20%;
+
+    border-radius: 3%;
+    transform: rotate(-3.06deg);
+}
+.Rectangle3{
+    z-index: 1;
+}
+.Rectangle3 img{
+    border-radius: 7rem;
+}
+.Rectangle12{
+    position: absolute;
+    left: 80%;
+    top: 32%;
+}
+.Rectangle12{
+    z-index: 2;
+}
+.Rectangle12 img{
+    border-radius: 2rem;
+}
+.Rectangle4{
+    position: absolute;
+    left: 79%;
+    top: 30%;
+
+    border-radius: 3%;
+    transform: rotate(-3.06deg);
+}
+.Rectangle4{
+    z-index: 1;
+}
+.Rectangle4 img{
+    border-radius: 4rem;
+}
+/* quebra */
+.Rectangle13{
+    position: absolute;
+    left: 8%;
+    top: 103%;
+}
+.Rectangle13{
+    z-index: 2;
+}
+.Rectangle13 img{
+    border-radius: 2rem;
+}
+.Rectangle5{
+    position: absolute;
+    left: 7%;
+    top: 101%;
+
+    border-radius: 3%;
+    transform: rotate(-3.06deg);
+}
+.Rectangle5{
+    z-index: 1;
+}
+.Rectangle5 img{
+    border-radius: 4rem;
+}
+.Rectangle14{
+    position: absolute;
+    left: 26%;
+    top: 103%;
+}
+.Rectangle14{
+    z-index: 2;
+}
+.Rectangle14 img{
+    border-radius: 2rem;
+}
+.Rectangle6{
+    position: absolute;
+    left: 25%;
+    top: 101%;
+
+    border-radius: 3%;
+    transform: rotate(-4.06deg);
+}
+.Rectangle6{
+    z-index: 1;
+}
+.Rectangle6 img{
+    border-radius: 5rem;
+}
+/* ----------- */
+.Rectangle15{
+    position: absolute;
+    left: 62%;
+    top: 103%;
+}
+.Rectangle15{
+    z-index: 2;
+}
+.Rectangle15 img{
+    border-radius: 2rem;
+}
+.Rectangle7{
+    position: absolute;
+    left: 61%;
+    top: 101%;
+
+    border-radius: 3%;
+    transform: rotate(-4.06deg);
+}
+.Rectangle7{
+    z-index: 1;
+}
+.Rectangle7 img{
+    border-radius: 4rem;
+}
+.Rectangle16{
+    position: absolute;
+    left: 80%;
+    top: 103%;
+}
+.Rectangle16{
+    z-index: 2;
+}
+.Rectangle16 img{
+    border-radius: 2rem;
+}
+.Rectangle8{
+    position: absolute;
+    left: 79%;
+    top: 101%;
+
+    border-radius: 3%;
+    transform: rotate(-4.06deg);
+}
+.Rectangle8{
+    z-index: 1;
+}
+.Rectangle8 img{
+    border-radius: 4rem;
+}
+/* quebra */
+.Rectangle19{
+    position: absolute;
+    left: 8%;
+    top: 172%;
+}
+.Rectangle19{
+    z-index: 2;
+}
+.Rectangle19 img{
+    border-radius: 2rem;
+}
+.Rectangle20{
+    position: absolute;
+    left: 7%;
+    top: 171%;
+
+    border-radius: 3%;
+    transform: rotate(-4.06deg);
+}
+.Rectangle20{
+    z-index: 1;
+}
+.Rectangle20 img{
+    border-radius: 4rem;
+}
+.Rectangle22{
+    position: absolute;
+    left: 26%;
+    top: 182%;
+}
+.Rectangle22{
+    z-index: 2;
+}
+.Rectangle22 img{
+    border-radius: 2rem;
+}
+.Rectangle21{
+    position: absolute;
+    left: 25%;
+    top:181%;
+
+    border-radius: 3%;
+    transform: rotate(-4.06deg);
+}
+.Rectangle21{
+    z-index: 1;
+}
+.Rectangle21 img{
+    border-radius: 4rem;
+}
+.Rectangle23{
+    position: absolute;
+    left: 44%;
+    top: 192%;
+}
+.Rectangle23{
+    z-index: 2;
+}
+.Rectangle23 img{
+    border-radius: 2rem;
+}
+.Rectangle24{
+    position: absolute;
+    left: 43%;
+    top: 190%;
+
+    border-radius: 3%;
+    transform: rotate(-4.06deg);
+}
+.Rectangle24{
+    z-index: 1;
+}
+.Rectangle24 img{
+    border-radius: 6rem;
+}
+.Rectangle25{
+    position: absolute;
+    left: 62%;
+    top: 182%;
+}
+.Rectangle25{
+    z-index: 2;
+}
+.Rectangle25 img{
+    border-radius: 2rem;
+}
+.Rectangle26{
+    position: absolute;
+    left: 61%;
+    top: 181%;
+
+    border-radius: 3%;
+    transform: rotate(0.06deg);
+}
+.Rectangle26{
+    z-index: 1;
+}
+.Rectangle26 img{
+    border-radius: 5rem;
+}
+.Rectangle27{
+    position: absolute;
+    left: 80%;
+    top: 172%;
+}
+.Rectangle27{
+    z-index: 2;
+}
+.Rectangle27 img{
+    border-radius: 2rem;
+}
+.Rectangle28{
+    position: absolute;
+    left: 78%;
+    top: 171%;
+
+    border-radius: 3rem;
+    transform: rotate(-2.06deg);
+}
+.Rectangle28{
+    z-index: 1;
+}
+.Rectangle28 img{
+    border-radius: 6rem;
+}
+.picture{
+    position: absolute;
+    left: 4%;
+    top: 2%;
+    width: 75%;
+    height: 70%;
+    border-radius: 3rem;
+}
+.picture{
+    z-index: 9;
+}
+.recheio{
+    position: absolute;
+    left: 2%;
+    top: 53%;
+    width: 67%;
+    height: 45%;
+    border-radius: 20%;
+}
+.recheio {
+    transition: background-color 300ms linear;
+}
+.recheio:hover{
+    background-color : rgba(219, 198, 198, 0.849);
+    height: 46%;
+    visibility: visible;
+    border-radius: 20%;
+}
+.Vector5{
+    position: relative;
+    top: 54rem;
+    width: 100%;
+    height: 20%; 
+}
+.Vector5{
+    z-index: -5;
+}
+.Vector5 img{
+    width: 100%;
+    height: 40rem;
+}
+.Vector4{
+    position: relative;
+    top: 14rem;
+    width: 100%;
+    height: 20%;
+}
+.Vector4{
+    z-index: -1;
+}
+.Vector4 img{
+    width: 100%;
+    height: 40rem;
+}
+.foto{
+    width: 70%;
+    height: 70%;
+    border-radius:2rem;
+}
+@media screen and (max-width: 360px){
+    body {
+        overflow-x: hidden;
+        font-size: 10px;
+    }
+    /* 1 */
+    .Rectangle9{
+        left: 4%;
+        top: 12%;
+    }
+    .Rectangle1{
+        left: 3%;
+        top: 11%;
+    }
+    /* 2 */
+    .Rectangle10{
+        left: 37%;
+        top: 5%;
+    }
+    .Rectangle2{
+        left: 36%;
+        top: 4%;
+    }
+    /* 3 */
+    .Rectangle17{
+        left: 70%;
+        top: 12%;
+    }
+    .Rectangle18{
+        left: 69%;
+        top: 11%;
+    }
+    /* 4 */
+    .Rectangle11{
+        left: 4%;
+        top: 46%;
+    }
+    .Rectangle3{
+        left: 3%;
+        top: 45%;
+    }
+    /* 5 */
+    .Rectangle12{
+        left: 37%;
+        top: 40%;
+    }
+    .Rectangle4{
+        left: 36%;
+        top: 39%;
+    }
+    /* 6 */
+    .Rectangle13{
+        left: 70%;
+        top: 46%;
+    }
+    .Rectangle5{
+        left: 69%;
+        top: 45%;
+    }
+    /* 7 */
+    .Rectangle14{
+        left: 4%;
+        top: 80%;
+    }
+    .Rectangle6{
+        left: 3%;
+        top: 79%;
+    }
+    /* 8 */
+    .Rectangle15{
+        left: 70%;
+        top: 80%;
+    }
+    .Rectangle7{
+        left: 69%;
+        top: 79%;
+    }
+    /* 9 */
+    .Rectangle16{
+        left: 4%;
+        top: 115%;
+    }
+    .Rectangle8{
+        left: 3%;
+        top: 114%;
+    }
+    /* 10 */
+    .Rectangle19{
+        left: 70%;
+        top: 115%;
+    }
+    .Rectangle20{
+        left: 69%;
+        top: 114%;
+    }
+    /* 11 */
+    .Rectangle22{
+        left: 4%;
+        top: 150%;
+    }
+    .Rectangle21{
+        left: 3%;
+        top: 149%;
+    }
+    /* 12 */
+    .Rectangle23{
+        left: 37%;
+        top: 157%;
+    }
+    .Rectangle24{
+        left: 36%;
+        top: 156%;
+    }
+    /* 13 */
+    .Rectangle25{
+        left: 70%;
+        top: 150%;
+    }
+    .Rectangle26{
+        left: 69%;
+        top: 149%;
+    }
+    /* 14 */
+    .Rectangle27{
+        left: 37%;
+        top: 97%;
+    }
+    .Rectangle28{
+        left: 36%;
+        top: 97%;
+    }
+    .Vector5{
+        top: 37rem;
+        width: 100%;
+        height: 20%; 
+    }
+    .Vector4{
+        top: -2.7rem;
+        width: 100%;
+        height: 20%;
+    }    
+    .picture{
+        left: 2.5%;
+        top: 1%;
+        width: 5.5rem;
+        height: 5rem;
+        border-radius: 2rem
+    }
+    .recheio{
+        left: 5%;
+        top: 5.5rem;
+        width: 5.5rem;
+        height: 6.5rem;
+    }
+    .recheio:hover{
+        background-color : rgba(219, 198, 198, 0.849);
+        height: 46%;
+        visibility: visible;
+        border-radius: 20%;
+    }
+    .foto{
+        width: 6rem;
+        height: 12rem;
+        border-radius:1rem;
+    }
+}
+@media screen and (max-width: 375px) and (min-width: 361px){
+    body {
+        overflow-x: hidden;
+        font-size: 10px;
+    }
+    /* 1 */
+    .Rectangle9{
+        left: 4%;
+        top: 12%;
+    }
+    .Rectangle1{
+        left: 3%;
+        top: 11%;
+    }
+    /* 2 */
+    .Rectangle10{
+        left: 37%;
+        top: 5%;
+    }
+    .Rectangle2{
+        left: 36%;
+        top: 4%;
+    }
+    /* 3 */
+    .Rectangle17{
+        left: 70%;
+        top: 12%;
+    }
+    .Rectangle18{
+        left: 69%;
+        top: 11%;
+    }
+    /* 4 */
+    .Rectangle11{
+        left: 4%;
+        top: 46%;
+    }
+    .Rectangle3{
+        left: 3%;
+        top: 45%;
+    }
+    /* 5 */
+    .Rectangle12{
+        left: 37%;
+        top: 40%;
+    }
+    .Rectangle4{
+        left: 36%;
+        top: 39%;
+    }
+    /* 6 */
+    .Rectangle13{
+        left: 70%;
+        top: 46%;
+    }
+    .Rectangle5{
+        left: 69%;
+        top: 45%;
+    }
+    /* 7 */
+    .Rectangle14{
+        left: 4%;
+        top: 80%;
+    }
+    .Rectangle6{
+        left: 3%;
+        top: 79%;
+    }
+    /* 8 */
+    .Rectangle15{
+        left: 70%;
+        top: 80%;
+    }
+    .Rectangle7{
+        left: 69%;
+        top: 79%;
+    }
+    /* 9 */
+    .Rectangle16{
+        left: 4%;
+        top: 115%;
+    }
+    .Rectangle8{
+        left: 3%;
+        top: 114%;
+    }
+    /* 10 */
+    .Rectangle19{
+        left: 70%;
+        top: 115%;
+    }
+    .Rectangle20{
+        left: 69%;
+        top: 114%;
+    }
+    /* 11 */
+    .Rectangle22{
+        left: 4%;
+        top: 150%;
+    }
+    .Rectangle21{
+        left: 3%;
+        top: 149%;
+    }
+    /* 12 */
+    .Rectangle23{
+        left: 37%;
+        top: 157%;
+    }
+    .Rectangle24{
+        left: 36%;
+        top: 156%;
+    }
+    /* 13 */
+    .Rectangle25{
+        left: 70%;
+        top: 150%;
+    }
+    .Rectangle26{
+        left: 69%;
+        top: 149%;
+    }
+    /* 14 */
+    .Rectangle27{
+        left: 37%;
+        top: 97%;
+    }
+    .Rectangle28{
+        left: 36%;
+        top: 97%;
+    }
+    .Vector5{
+        top: 53rem;
+        width: 100%;
+        height: 20%; 
+    }
+    .Vector4{
+        top: 13rem;
+        width: 100%;
+        height: 20%;
+    }    
+    .picture{
+        left: 2.5%;
+        top: 1%;
+        width: 5.5rem;
+        height: 5rem;
+        border-radius: 2rem;
+    }
+    .recheio{
+        left: 5%;
+        top: 5.5rem;
+        width: 5.5rem;
+        height: 6.5rem;
+    }
+    .recheio:hover{
+        background-color : rgba(219, 198, 198, 0.849);
+        height: 46%;
+        visibility: visible;
+        border-radius: 20%;
+    }
+    .foto{
+        width: 6rem;
+        height: 12rem;
+        border-radius:1rem;
+    }
+}
+@media screen and (max-width: 400px) and (min-width: 377px){
+    .Vector5{
+        top: 52rem;
+        width: 100%;
+        height: 20%; 
+    }
+    .Vector4{
+        top: 12rem;
+        width: 100%;
+        height: 20%;
+    } 
+}
+@media screen and (max-width: 416px) and (min-width: 401px){
+    body {
+        overflow-x: hidden;
+        font-size: 10px;
+    }
+    /* 1 */
+    .Rectangle9{
+        left: 4%;
+        top: 12%;
+    }
+    .Rectangle1{
+        left: 3%;
+        top: 11%;
+    }
+    /* 2 */
+    .Rectangle10{
+        left: 37%;
+        top: 5%;
+    }
+    .Rectangle2{
+        left: 36%;
+        top: 4%;
+    }
+    /* 3 */
+    .Rectangle17{
+        left: 70%;
+        top: 12%;
+    }
+    .Rectangle18{
+        left: 69%;
+        top: 11%;
+    }
+    /* 4 */
+    .Rectangle11{
+        left: 4%;
+        top: 46%;
+    }
+    .Rectangle3{
+        left: 3%;
+        top: 45%;
+    }
+    /* 5 */
+    .Rectangle12{
+        left: 37%;
+        top: 40%;
+    }
+    .Rectangle4{
+        left: 36%;
+        top: 39%;
+    }
+    /* 6 */
+    .Rectangle13{
+        left: 70%;
+        top: 46%;
+    }
+    .Rectangle5{
+        left: 69%;
+        top: 45%;
+    }
+    /* 7 */
+    .Rectangle14{
+        left: 4%;
+        top: 80%;
+    }
+    .Rectangle6{
+        left: 3%;
+        top: 79%;
+    }
+    /* 8 */
+    .Rectangle15{
+        left: 70%;
+        top: 80%;
+    }
+    .Rectangle7{
+        left: 69%;
+        top: 79%;
+    }
+    /* 9 */
+    .Rectangle16{
+        left: 4%;
+        top: 115%;
+    }
+    .Rectangle8{
+        left: 3%;
+        top: 114%;
+    }
+    /* 10 */
+    .Rectangle19{
+        left: 70%;
+        top: 115%;
+    }
+    .Rectangle20{
+        left: 69%;
+        top: 114%;
+    }
+    /* 11 */
+    .Rectangle22{
+        left: 4%;
+        top: 150%;
+    }
+    .Rectangle21{
+        left: 3%;
+        top: 149%;
+    }
+    /* 12 */
+    .Rectangle23{
+        left: 37%;
+        top: 157%;
+    }
+    .Rectangle24{
+        left: 36%;
+        top: 156%;
+    }
+    /* 13 */
+    .Rectangle25{
+        left: 70%;
+        top: 150%;
+    }
+    .Rectangle26{
+        left: 69%;
+        top: 149%;
+    }
+    /* 14 */
+    .Rectangle27{
+        left: 37%;
+        top: 97%;
+    }
+    .Rectangle28{
+        left: 36%;
+        top: 97%;
+    }
+    .Vector5{
+        top: 53rem;
+        width: 100%;
+        height: 20%; 
+    }
+    .Vector4{
+        top: 13rem;
+        width: 100%;
+        height: 20%;
+    }    
+    .picture{
+        left: 2.5%;
+        top: 1%;
+        width: 5.5rem;
+        height: 5rem;
+        border-radius: 2rem;
+    }
+    .recheio{
+        left: 5%;
+        top: 5.5rem;
+        width: 5.5rem;
+        height: 6.5rem;
+    }
+    .recheio:hover{
+        background-color : rgba(219, 198, 198, 0.849);
+        height: 46%;
+        visibility: visible;
+        border-radius: 20%;
+    }
+    .foto{
+        width: 6rem;
+        height: 12rem;
+        border-radius:1rem;
+    }
+}
+@media screen and ( max-width: 420px) and (min-width: 412px){
+    .Vector5{
+        top: 45rem;
+        width: 100%;
+        height: 20%; 
+    }
+    .Vector4{
+        top: 5rem;
+        width: 100%;
+        height: 20%;
+    } 
+}
+@media screen and ( max-width: 540px) and (min-width: 422px){
+    body {
+        overflow-x: hidden;
+        font-size: 10px;
+    }
+    /* 1 */
+    .Rectangle9{
+        left: 8%;
+        top: 12%;
+    }
+    .Rectangle1{
+        left: 7%;
+        top: 11%;
+    }
+    /* 2 */
+    .Rectangle10{
+        left: 44%;
+        top: 5%;
+    }
+    .Rectangle2{
+        left: 43%;
+        top: 4%;
+    }
+    /* 3 */
+    .Rectangle17{
+        left: 74%;
+        top: 12%;
+    }
+    .Rectangle18{
+        left: 73%;
+        top: 11%;
+    }
+    /* 4 */
+    .Rectangle11{
+        left: 8%;
+        top: 46%;
+    }
+    .Rectangle3{
+        left: 7%;
+        top: 45%;
+    }
+    /* 5 */
+    .Rectangle12{
+        left: 44%;
+        top: 40%;
+    }
+    .Rectangle4{
+        left: 43%;
+        top: 39%;
+    }
+    /* 6 */
+    .Rectangle13{
+        left: 74%;
+        top: 46%;
+    }
+    .Rectangle5{
+        left: 73%;
+        top: 45%;
+    }
+    /* 7 */
+    .Rectangle14{
+        left: 8%;
+        top: 80%;
+    }
+    .Rectangle6{
+        left: 7%;
+        top: 79%;
+    }
+    /* 8 */
+    .Rectangle15{
+        left: 74%;
+        top: 80%;
+    }
+    .Rectangle7{
+        left: 73%;
+        top: 79%;
+    }
+    /* 9 */
+    .Rectangle16{
+        left: 8%;
+        top: 115%;
+    }
+    .Rectangle8{
+        left: 7%;
+        top: 114%;
+    }
+    /* 10 */
+    .Rectangle19{
+        left: 74%;
+        top: 115%;
+    }
+    .Rectangle20{
+        left: 73%;
+        top: 114%;
+    }
+    /* 11 */
+    .Rectangle22{
+        left: 8%;
+        top: 150%;
+    }
+    .Rectangle21{
+        left: 7%;
+        top: 149%;
+    }
+    /* 12 */
+    .Rectangle23{
+        left: 44%;
+        top: 157%;
+    }
+    .Rectangle24{
+        left: 43%;
+        top: 156%;
+    }
+    /* 13 */
+    .Rectangle25{
+        left: 74%;
+        top: 150%;
+    }
+    .Rectangle26{
+        left: 73%;
+        top: 149%;
+    }
+    /* 14 */
+    .Rectangle27{
+        left: 44%;
+        top: 97%;
+    }
+    .Rectangle28{
+        left: 43%;
+        top: 97%;
+    }
+    .Vector5{
+        top: 44rem;
+        width: 100%;
+        height: 20%; 
+    }
+    .Vector4{
+        top: 4rem;
+        width: 100%;
+        height: 20%;
+    }    
+    .picture{
+        left: 2.5%;
+        top: 1%;
+        width: 5.5rem;
+        height: 5rem;
+        border-radius: 2rem
+    }
+    .recheio{
+        left: 5%;
+        top: 5.5rem;
+        width: 5.5rem;
+        height: 6.5rem;
+    }
+    .recheio:hover{
+        background-color : rgba(219, 198, 198, 0.849);
+        height: 46%;
+        visibility: visible;
+        border-radius: 20%;
+    }
+    .foto{
+        width: 6rem;
+        height: 12rem;
+        border-radius:1rem;
+    }
+}
+@media screen and ( max-width: 768px) and (min-width: 541px){
+    .Rectangle9{
+        left: 8%;
+        top: 22%;
+    }
+    .Rectangle1{
+        left: 7%;
+        top: 21%;
+    }
+    .Rectangle10{
+        left: 26%;
+        top: 12%;
+    }
+    .Rectangle2{
+        left: 25%;
+        top: 11%
+    }
+    .Rectangle17{
+        left: 44%;
+        top: 2%;
+    }
+    .Rectangle18{
+        left: 43%;
+        top: 1%;
+    }
+    .Rectangle11{
+        left: 62%;
+        top: 12%;
+    }
+    .Rectangle3{
+        left: 60%;
+        top: 11%;
+    }
+    .Rectangle12{
+        left: 80%;
+        top: 22%;
+    }
+    .Rectangle4{
+        left: 79%;
+        top: 21%;
+    }
+    /*  */
+    .Rectangle13{
+        left: 8%;
+        top: 50%;
+    }
+    .Rectangle5{
+        left: 7%;
+        top: 49%;
+    }
+    .Rectangle14{
+        left: 26%;
+        top: 50%;
+    }
+    .Rectangle6{
+        left: 25%;
+        top: 49%;
+    }
+    /*  */
+    .Rectangle15{
+        left: 62%;
+        top: 50%;
+    }
+    .Rectangle7{
+        left: 61%;
+        top: 49%;
+    }
+    .Rectangle16{
+        left: 80%;
+        top: 50%;
+    }
+    .Rectangle8{
+        left: 79%;
+        top: 49%;
+    }
+    /*  */
+    .Rectangle19{
+        left: 8%;
+        top: 80%;
+    }
+    .Rectangle20{
+        left: 7%;
+        top: 79%;
+    }
+    .Rectangle22{
+        left: 26%;
+        top: 90%;
+    }
+    .Rectangle21{
+        left: 25%;
+        top: 89%;
+    }
+    .Rectangle23{
+        left: 44%;
+        top: 100%;
+    }
+    .Rectangle24{
+        left: 43%;
+        top: 99%;
+    }
+    .Rectangle25{
+        left: 62%;
+        top: 90%;
+    }
+    .Rectangle26{
+        left: 61%;
+        top: 89%;
+    }
+    .Rectangle27{
+        left: 80%;
+        top: 80%;
+    }
+    .Rectangle28{
+        left: 78%;
+        top: 79%;
+    }
+    .Vector5{
+        top: 54rem;
+        width: 100%;
+        height: 20%; 
+    }
+    .Vector4{
+        top: 14rem;
+        width: 100%;
+        height: 20%;
+    }
+    .picture{
+        left: 2.5%;
+        top: 1%;
+        width: 5.5rem;
+        height: 5rem;
+        border-radius: 2rem
+    }
+    .recheio{
+        left: 5%;
+        top: 5.5rem;
+        width: 5.5rem;
+        height: 6.5rem;
+    }
+    .recheio:hover{
+        background-color : rgba(219, 198, 198, 0.849);
+        height: 46%;
+        visibility: visible;
+        border-radius: 20%;
+    }
+    .foto{
+        width: 6rem;
+        height: 12rem;
+        border-radius:1rem;
+    }
+}
+@media screen and (max-width: 1024px) and (min-width: 542px){
+    body {
+        overflow-x: hidden;
+        font-size: 10px;
+    }
+    .Vector5{
+        top: 52rem;
+        width: 100%;
+        height: 20%; 
+    }
+    .Vector4{
+        top: 12rem;
+        width: 100%;
+        height: 20%;
+    }
+    
+}
+@media screen and (max-width: 1280px) and (min-width: 1026px){
+    .Vector5{
+        top: 76rem;
+        width: 100%;
+        height: 20%; 
+    }
+    .Vector4{
+        top: 36rem;
+        width: 100%;
+        height: 20%;
+    } 
+}
