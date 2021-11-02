@@ -1,0 +1,11 @@
+body{
+    background-color: rgba(236, 221, 160, 0.945);
+    color: rgb(5, 190, 190);
+    font-size: 150%;
+    text-align: center;
+}
+.p1{
+    color: rgb(72, 17, 112);
+    font-family: Verdana;
+    text-indent: 30px;
+}
